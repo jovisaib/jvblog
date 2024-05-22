@@ -1,4 +1,4 @@
 ---
-title: jovisaib blog: hi!
+title: jovisaib blog hi!
 ---
 
